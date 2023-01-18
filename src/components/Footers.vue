@@ -5,7 +5,7 @@
           <div class="col-md-3">
             <div class="content">
               <a href="#"
-                ><img src="../../images/logo_2.webp" alt="" class="logo"
+                ><img src="@/assets/images/logo_2.webp" alt="" class="logo"
               /></a>
               <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit.

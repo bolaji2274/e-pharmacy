@@ -37,22 +37,22 @@ export default {
     return {
       shops: [
         {
-          image: "url(../../images/p1_600x.webp)",
+          image: "url(@/assets/images/p1_600x.webp)",
           desc: "Alex Study Chair",
           price: "$ 208.00",
         },
         {
-          image: "url(../../images/p8_600x.webp)",
+          image: "url(@/assets/images/p8_600x.webp)",
           desc: "Brommstick chair",
           price: "$ 178.00",
         },
         {
-          image: "url(../../images/p10_600x.webp)",
+          image: "url(@/assets/images/p10_600x.webp)",
           desc: "Amet Kairfort",
           price: "$ 756.00",
         },
         {
-          image: "url(../../images/p13_600x.webp)",
+          image: "url(@/assets/images/p13_600x.webp)",
           desc: "Fuastick chair",
           price: "$ 178.00",
         },
@@ -136,14 +136,14 @@ export default {
 }
 .detail-1 {
   flex-basis: 49.8%;
-  background-image: url("../../images/img4.webp");
+  background-image: url("@/assets/images/img4.webp");
   background-size: cover;
   background-position: center;
 }
 
 .detail-2 {
   flex-basis: 49.7%;
-  background-image: url("../../images/img5.webp");
+  background-image: url("@/assets/images/img5.webp");
   background-size: 100%;
   background-position: center;
 }

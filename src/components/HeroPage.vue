@@ -43,21 +43,21 @@ export default {
     return {
       items: [
         {
-          image: "url(../../images/img1.webp)",
+          image: "url(@/assets/images/img1.webp)",
           tags: "Relax with yourself",
           title: "Coffe Tables",
           desc: "Lorem ipsum sit armet, consectur adispscing elit.",
           button: "SHOP NOW",
         },
         {
-          image: "url(../../images/img2.webp)",
+          image: "url(@/assets/images/img2.webp)",
           tags: "Unwind with Tea",
           title: "Side Tables",
           desc: "Lorem ipsum sit armet, consectur adispscing elit.",
           button: "SHOP NOW",
         },
         {
-          image: "url(../../images/img3.webp)",
+          image: "url(@/assets/images/img3.webp)",
           tags: "Poll Side Corner",
           title: "Dining Tables",
           desc: "Lorem ipsum sit armet, consectur adispscing elit.",
@@ -81,7 +81,7 @@ export default {
   width: 100%;
 }
 .container-fluids {
-  background-image: url("../../images/furni-slideshow_1.webp");
+  background-image: url("@/assets/images/furni-slideshow_1.webp");
   background-size: cover;
   height: 100%;
   width: 100%;

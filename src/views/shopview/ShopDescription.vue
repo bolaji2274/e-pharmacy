@@ -144,7 +144,7 @@ export default {
   font-family: "Poppins", sans-serif;
 }
 .content {
-  background: url("../../images/fall-leaves.webp");
+  background: url("@/assets/images/fall-leaves.webp");
   background-position: center top;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -205,7 +205,7 @@ export default {
 .best-seller {
   widows: 100%;
   height: 350px;
-  background-image: url("../../images/p12_600x.webp");
+  background-image: url("@/assets/images/p12_600x.webp");
   background-position: center top;
   background-size: 300px 250px;
   background-repeat: no-repeat;
@@ -230,7 +230,7 @@ export default {
   margin-bottom: 50px;
 }
 .cl2 {
-  background: url("../../images/p12_600x.webp");
+  background: url("@/assets/images/p12_600x.webp");
   background-position: center top;
   background-repeat: no-repeat;
   background-size: cover;

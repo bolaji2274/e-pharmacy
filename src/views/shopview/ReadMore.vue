@@ -32,42 +32,42 @@ export default {
     return {
       shops: [
         {
-          image: "url(../../images/p1_600x.webp)",
+          image: "url(@/assets/images/p1_600x.webp)",
           desc: "Alex Study Chair",
           price: "$ 208.00",
         },
         {
-          image: "url(../../images/p8_600x.webp)",
+          image: "url(@/assets/images/p8_600x.webp)",
           desc: "Brommstick chair",
           price: "$ 178.00",
         },
         {
-          image: "url(../../images/p10_600x.webp)",
+          image: "url(@/assets/images/p10_600x.webp)",
           desc: "Amet Kairfort",
           price: "$ 756.00",
         },
         {
-          image: "url(../../images/p13_600x.webp)",
+          image: "url(@/assets/images/p13_600x.webp)",
           desc: "Fuastick chair",
           price: "$ 178.00",
         },
         {
-          image: "url(../../images/p6_600x.webp)",
+          image: "url(@/assets/images/p6_600x.webp)",
           desc: "Mavi Vinyl Study Chair",
           price: "$ 364.00",
         },
         {
-          image: "url(../../images/p12_600x.webp)",
+          image: "url(@/assets/images/p12_600x.webp)",
           desc: "Muren Durable Table",
           price: "$ 756.00",
         },
         {
-          image: "url(../../images/p2_600x.webp)",
+          image: "url(@/assets/images/p2_600x.webp)",
           desc: "Regentseating Chair",
           price: "$ 178.00",
         },
         {
-          image: "url(../../images/p14_600x.webp)",
+          image: "url(@/assets/images/p14_600x.webp)",
           desc: "Tempor chair",
           price: "$ 278.00",
         },

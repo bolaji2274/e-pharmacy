@@ -3,7 +3,7 @@
         <nav class="navbar navbar-expand-lg ">
             <div class="container-fluid">
                 <RouterLink to="/" class="navbar-brand">
-                    <a class="navbar-brand" href="#"><img src="../../images/logo_1.avif" style="max-width: 205px" alt="Furni"></a>
+                    <a class="navbar-brand" href="#"><img src="@/assets/images/logo_1.avif" style="max-width: 205px" alt="Furni"></a>
                 </RouterLink>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                     data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false"
